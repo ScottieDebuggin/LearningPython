@@ -1,2 +1,2 @@
 from StrawberryTofu import yahyeet
-yahyeet("string example")
+yahyeet("shotgun lobster tail")
